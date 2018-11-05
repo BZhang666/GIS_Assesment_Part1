@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541429101514.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AEA3C40A",
+    "lastKnownWriteTime" : 120259084288,
+    "last_content_update" : 1541429101514,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "51D5A9E",
+        "caption" : "NHSMapSF",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=NHSMapSF&cache_key=51D5A9E",
+        "displayedObservations" : 25,
+        "environment" : "",
+        "object" : "NHSMapSF",
+        "preview" : 0,
+        "totalObservations" : 25,
+        "variables" : 4
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
