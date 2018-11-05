@@ -1,0 +1,26 @@
+Code,New code,NHS England Area Team,One-year net survival for woman in 1997,One-year net survival for woman in 2002,One-year net survival for woman in 2007,One-year net survival for woman in 2012,One-yearnet survival for man in 1997,One-year net survival for man in 2002,One-year net survival for man in 2007,One-year net survival for man in 2012
+E1,E39000001,"Cheshire, Warrington and Wirral  ",20.7,26.5,32.4,40.5,27.2,33.9,40.2,46.0
+E2,E39000002,"Durham, Darlington and Tees                                 ",23.3,27.6,33.8,39.7,24.5,33.3,42.2,49.6
+E3,E39000003,Greater Manchester   ,19.2,26.9,33.5,48.9,19.1,28.5,39.5,48.2
+E4,E39000004,Lancashire   ,19.2,25.0,30.6,39.0,22.5,29.5,37.1,44.0
+E5,E39000005,Merseyside,23.2,29.3,34.6,41.3,24.0,30.3,37.8,45.0
+E6,E39000006,"Cumbria, Northumberland, Tyne and Wear",26.1,31.9,38.0,42.7,28.0,34.4,42.3,48.7
+E7,E39000007,North Yorkshire and Humber ,26.8,32.1,36.7,43.5,25.8,35.4,44.1,43.7
+E8,E39000008,South Yorkshire and Bassetlaw ,21.5,26.4,33.9,39.9,27.9,32.8,38.2,42.5
+E9,E39000009,West Yorkshire,31.2,34.4,38.3,39.5,32.4,37.2,43.1,48.2
+E10,E39000010,"Arden, Herefordshire and Worcestershire",27.5,32.0,33.9,39.0,24.9,37.8,37.6,49.7
+E11,E39000011,Birmingham and the Black Country ,25.4,28.0,31.0,34.3,26.9,31.1,35.4,40.1
+E12,E39000012,Derbyshire and Nottinghamshire,24.7,30.6,34.1,41.9,31.7,36.1,39.6,43.8
+E13,E39000013,East Anglia                                                ,22.3,34.2,38.2,37.2,27.6,34.1,42.0,49.4
+E14,E39000014,Essex                                                      ,25.7,29.2,33.1,37.1,28.6,33.6,38.9,45.2
+E15,E39000015,Hertfordshire and the South Midlands ,29.3,24.5,34.0,41.4,30.2,34.7,38.7,42.6
+E16,E39000016,Leicestershire and Lincolnshire ,27.3,29.3,33.6,38.8,32.6,36.8,41.3,45.6
+E17,E39000017,Shropshire and Staffordshire ,25.4,30.3,34.6,39.9,22.4,33.6,39.0,39.8
+E18,E39000018,London       ,29.9,33.3,36.5,41.5,31.9,36.7,41.4,45.9
+E19,E39000019,"Bath, Gloucestershire, Swindon and Wiltshire                 ",29.6,33.3,36.6,40.3,30.7,36.6,42.0,47.6
+E20,E39000020,"Bristol, North Somerset, Somerset and South Gloucestershire  ",24.8,36.5,37.0,35.2,30.1,34.3,38.0,42.3
+E21,E39000021,"Devon, Cornwall and Isles of Scilly                         ",27.4,31.5,34.5,35.5,30.4,36.4,41.6,48.0
+E22,E39000022,Kent and Medway,27.9,31.7,33.8,37.6,27.7,33.5,41.4,37.4
+E23,E39000023,Surrey and Sussex                                          ,26.5,30.5,32.8,36.4,33.7,37.2,41.3,44.6
+E24,E39000024,Thames Valley   ,27.8,29.9,33.6,36.8,33.6,37.8,42.5,46.8
+E25,E39000025,Wessex ,27.5,31.8,35.9,39.7,34.2,39.6,44.0,48.6
